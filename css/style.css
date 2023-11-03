@@ -1,0 +1,12 @@
+img {
+    max-width: 50%;
+    height: auto;
+    }
+
+.pic {
+    margin: 5rem;
+    display:block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
